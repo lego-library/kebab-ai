@@ -1,0 +1,5 @@
+{
+  "name": "Kebab AI Chat",
+  "description": "A sleek chat application powered by the Gemini API, allowing users to have conversations with a powerful AI.",
+  "requestFramePermissions": []
+}
